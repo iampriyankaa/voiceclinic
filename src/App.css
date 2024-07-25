@@ -1,0 +1,131 @@
+/* App.css */
+.footer.html {
+    position: relative;
+    min-height: 100%;
+  }
+  
+  .footer.body {
+    margin-bottom: 60px; /* Height of the footer */
+    padding-bottom: 60px; /* Height of the footer */
+  }
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+h1 {
+    color: #333;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #4CAF50;
+}
+
+a:hover {
+    color: #45a049;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+audio {
+    margin-top: 20px;
+}
+
+
+.navbar-brand {
+    font-weight: bold;
+  }
+  
+  .nav-link {
+    margin-left: 15px;
+  }
+  
+  .nav-link.text-danger {
+    font-weight: bold;
+  }
+  /* App.css */
+.navbar-nav .nav-item {
+    display: flex;
+    align-items: center;
+  }
+  
+
+  .hero {
+    padding: 100px 0;
+    background: url("C:/Users/nepal/Documents/masters thesis/img.png") no-repeat center center;
+    background-size: cover;
+    color: white;
+  }
+  
+  .testimonials {
+    padding: 50px 0;
+  }
+  
+  blockquote {
+    font-size: 1.2rem;
+  }
+  
+  blockquote .blockquote-footer {
+    font-size: 0.9rem;
+  }  
+  .card {
+    border-radius: 10px;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  .footer {
+    width: 100%;
+    background-color: #f8f9fa;
+    height: 110px;
+    margin-top: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.footer .container {
+    padding: 10px 20px;
+}
+
+.footer hr {
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    margin-top: 5px;
+    margin-bottom: 5px;
+}

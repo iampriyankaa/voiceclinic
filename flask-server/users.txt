@@ -1,0 +1,6 @@
+patient_pree,$2b$12$MN.b7xwptNnDeqn8EqGz0uxco3fGY8vO7P4d/z1QBVhLbEHOQ/kXW,user
+patient_ram,$2b$12$LzLvoOr36UWP2QUr5Fmey.03qQ3oCzt5hg0TK0Qui7MquF4CEZGKG,user
+patient_amy,$2b$12$I.XFYQi5txqCqQ74jHppx.tXdeaL9DEc5HICz4znAVIvGpMw6uR2C,user
+patient_rr,$2b$12$q2ijuP2qjEdQiOi0/1bwJ.BAZziKM1ER20OWwO4j9Pfn6xrp7HUUe,user
+patient_yy,$2b$12$T6lomQlat9CAR/ED5ocoOOj3tvyviti2Ftz4IqOzm6X66rPgDfNPS,user
+patient_aa,$2b$12$jNhP8pcMqQySx4jriW8.h.BhcjEVXs40/VYSGnrhuuJrXQSjGg8Ny,user

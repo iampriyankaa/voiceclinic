@@ -1,0 +1,4 @@
+admin1,$2b$12$mt5jnxlCFgAEUUCy2ZxyAuHmGaFKyR9pf9tUlcGJ9Id8FHfagySQy,admin
+admin,$2b$12$XVNpa0g2oMAOWCR6NEZAj.ID46iPnIZZJKtli7fr8bsccCAmlJBmm,admin
+pree,$2b$12$FDK6l0SX.tyxjF7GscF0B.z.pUmFgHoF83Z2SLbyzfqcGp5JVsUQa,admin
+admin2,$2b$12$X1UL3GFx1Cq7HFVpsZej5u0zsXEcd9pkZLKs4Icz1Au77h0xg1wAe,admin
